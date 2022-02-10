@@ -22,4 +22,4 @@ useState, useEffect, useCallback, useRef
 
 
 ## App Snapsorts
-
+![Movies Home Page and Add movies](https://github.com/vishal002/movies-app/blob/master/public/home_page.jpg?raw=true)
